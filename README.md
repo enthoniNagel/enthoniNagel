@@ -1,6 +1,7 @@
 <p align="left">Hello World!!<br>
 <br>Hi 👋! My name is Enthoni S. Nagel I'm from Brazil</p>
 
+###
 ---
 
 # Rede Social
@@ -8,7 +9,7 @@
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/enthonibr)
 [![Udemy](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com/user/enthoni-satler-nagel/)
 
-
+###
 
 <div align="center">
   <img height="200" src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDJydnVhZ3ptaHA0d2J3cGFqaTNpc3hxdDFjc2E4dDRlZnRhYTd1aSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/BuReg1EyvWaac/giphy.gif"  />
