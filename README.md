@@ -4,7 +4,7 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/seu-perfil)
 
 ## Cursos
-[![Udemy](https://img.shields.io/badge/Udemy-EC5252?style=for-the-badge&logo=Udemy&logoColor=white)](https://www.udemy.com/user/seu-perfil)
+[![Udemy](https://www.udemy.com/user/enthoni-satler-nagel/)
 
 ## Habilidades
 ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
