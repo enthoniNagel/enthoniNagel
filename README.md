@@ -1,8 +1,7 @@
 <p align="left">Hello World!!<br>
 <br>Hi 👋! My name is Enthoni S. Nagel I'm from Jaragua do Sul (SC)</p>
 
-###
-
+### 
 [![Twitch](https://img.shields.io/badge/Twitch-9146FF?style=for-the-badge&logo=twitch&logoColor=white)](https://www.twitch.tv/enthonibr)
 [![linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/enthoni-s-nagel-818754288/)
 <div align="center">
