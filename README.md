@@ -1,4 +1,4 @@
-<p align="left">Hello World!!<br><br>👨‍💻 Name: Enthoni S. Nagel<br>🌍 From: Brazil<br>🛠️ Favorite stack: Coffee ☕ + Bugfixes 🔧<br>🐛 Fixing bugs since: "Why is this breaking?"<br>🌱 Growing skills: Ctrl + C, Ctrl + V<br>🤔 Current thought: "If it works, why touch it?"<br>💡 Pro Tip: If you can’t fix it, call it a "feature".<br>🎯 Life goal: Make the code work on the first try. (Still waiting for this one).</p>
+<p align="left">Hello World!!<br><br>👨‍💻 Name: Enthoni S. Nagel<br>🌍 From: Brazil<br>🛠️ Favorite stack: Coffee ☕ + Bugfixes 🔧<br>🐛 Fixing bugs since: "Why is this breaking?"<br><br>🤔 Current thought: "If it works, why touch it?"<br>💡 Pro Tip: If you can’t fix it, call it a "feature".<br>🎯 Life goal: Make the code work on the first try. (Still waiting for this one).</p>
 
 ###
 
